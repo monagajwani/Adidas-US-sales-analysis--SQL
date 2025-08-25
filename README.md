@@ -18,18 +18,5 @@ This project uses SQL to analyze Adidas sales data and uncover performance trend
 
 🔄 Growth Tracking – Used window functions to compare current vs previous month sales and identify momentum.
 
-📉 Risk Analysis – Applied coefficient of variation to measure sales reliability across channels.Key Highlights
+📉 Risk Analysis – Applied coefficient of variation to measure sales reliability across channels.
 
-📊 Sales Channels – Identified which sales method generates the highest revenue and how stable each channel is.
-
-🌍 Regional & City Insights – Found top-performing regions and cities, as well as the weakest ones for targeted improvement.
-
-👕 Customer Segments – Compared Men’s vs Women’s product revenue to understand demand patterns.
-
-📅 Time Trends – Pinpointed peak and low sales months in 2020, helping track seasonal patterns.
-
-👟 Product Categories – Evaluated profitability between Apparel and Footwear to guide inventory strategy.
-
-🔄 Growth Tracking – Used window functions to compare current vs previous month sales and identify momentum.
-
-📉 Risk Analysis – Applied coefficient of variation to measure sales reliability across channels.**
